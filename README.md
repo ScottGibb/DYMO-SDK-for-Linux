@@ -13,7 +13,7 @@ Installation:
 ```bash
 sudo apt-get install git libcups2-dev libcupsimage2-dev gcc g++ automake
 cd ~/
-git clone https://github.com/Kyle-Falconer/DYMO-SDK-for-Linux.git
+git clone https://github.com/ScottGibb/DYMO-SDK-for-Linux.git
 cd DYMO-SDK-for-Linux
 aclocal
 automake --add-missing
